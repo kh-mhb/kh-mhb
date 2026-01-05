@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmudul Hasan Badhan
 
-🎓 **Prospective MSc/MS Student | Research Assistant | ML, NLP & Speech Processing**
+🎓 ** Research Assistant | ML, NLP & Speech Processing**
 
 I am a Computer Science graduate from **Shahjalal University of Science and Technology (SUST)** with a strong research focus on **Machine Learning, Natural Language Processing, and Speech Processing**, particularly for **low-resource languages** like Bangla.
 
