@@ -4,7 +4,7 @@
 
 I am a Computer Science graduate from **Shahjalal University of Science and Technology (SUST)** with a strong research focus on **Machine Learning, Natural Language Processing, and Speech Processing**, particularly for **low-resource languages** like Bangla.
 
-I am currently working as a **Research Assistant**, contributing to multiple deep learning–based research projects and IEEE conference papers. My undergraduate thesis explored **zero-shot Bengali voice cloning** using neural network–based speaker encoders, speaker converters, and **VITS-based TTS** under limited-data settings.
+I am currently working as a **Research Assistant**, contributing to multiple deep learning–based research projects. My undergraduate thesis explored **zero-shot Bengali voice cloning** using neural network–based speaker encoders, speaker converters, and **VITS-based TTS** under limited-data settings.
 
 ---
 
