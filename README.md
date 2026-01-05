@@ -56,7 +56,7 @@ Taught Python fundamentals and real-world programming applications.
 ## 🌐 Links
 
 * 🔗 **Kaggle**: [https://www.kaggle.com/mahmudulhasanbadhan](https://www.kaggle.com/mahmudulhasanbadhan)
-* 🔗 **Portfolio**: [https://localhost:5173/](https://localhost:5173/)
+* 🔗 **Portfolio**: [https://mahmudulhasanbadhan.netlify.app/)
 * 📧 **Email**: [mahmudulhasanw3b@gmail.com](mailto:mahmudulhasanw3b@gmail.com)
 
 ---
